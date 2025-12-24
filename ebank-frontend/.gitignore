@@ -1,0 +1,27 @@
+# Java / Spring
+target/
+*.log
+*.class
+
+# Node / React
+node_modules/
+dist/
+.vite/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+
+# Secrets
+.env
+application-local.properties
