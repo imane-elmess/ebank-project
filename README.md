@@ -6,10 +6,9 @@ Application bancaire développée dans le cadre du module
 ## Technologies
 - Backend : Spring Boot, Spring Security, JWT, JPA
 - Frontend : React, Vite
-- Base de données : PostgreSQL / H2
+- Base de données : PostgreSQL 
 - Sécurité : JWT, BCrypt
 - Email : SMTP
-- Rapport : LaTeX
 
 ## Fonctionnalités
 - Authentification JWT
