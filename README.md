@@ -24,4 +24,3 @@ Application bancaire développée dans le cadre du module
 - Imane EL MESSAOUDI
 - Amal AIT EL OURF
 
-Encadré par : **Pr. Abdelilah Hssaini**
